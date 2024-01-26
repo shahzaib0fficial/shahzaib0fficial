@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Shahzaib</h1>
 <h3 align="center">A passionate backend developer from Pakistan</h3>
 
-<img align="right" alt="coding gif" width ="400" src ="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40gavizoid16%2Fthings-to-do-after-a-coding-bootcamp-9523cd61be91&psig=AOvVaw3vNt4Hmlbyqa2jq7iWgSH1&ust=1706381080742000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIC3woTb-4MDFQAAAAAdAAAAABAS">
+<img align="right" alt="coding gif" width ="400" src ="https://miro.medium.com/v2/resize:fit:1400/1*4fNBO_UDYEVxM0E5T2FyJQ.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
